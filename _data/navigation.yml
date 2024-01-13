@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Vabaduse Tuba"
+    url: /vabaduse-tuba/
+  - title: "Contact"
+    url: /contact/

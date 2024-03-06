@@ -9,9 +9,8 @@ repository: "MissionLiberty/cfet.ee"
 #twitter_username: missionliberty.ee
 github_username:  MissionLiberty
 timezone: Europe/Tallinn
-logo: /img/ml-lambda.png
-og_image: /img/ml-lambda.png
-
+logo: /img/ebs_CFET_fb_logo.png
+og_image: /img/ebs_CFET_fb_logo.png
 
 # Build settings
 markdown: kramdown

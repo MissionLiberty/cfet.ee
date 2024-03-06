@@ -14,8 +14,8 @@ og_image: /img/ebs_CFET_fb_logo.png
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "sunrise"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0" # find more from
+minimal_mistakes_skin: "air"
 plugins:
   - jekyll-feed
   - jekyll-include-cache

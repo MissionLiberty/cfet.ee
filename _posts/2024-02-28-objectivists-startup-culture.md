@@ -12,3 +12,5 @@ Hey ho, Ayn Rand for the win.
 * test
 * test
 * test2
+
+![Mission Liberty Logo](/img/ml-lambda.png)

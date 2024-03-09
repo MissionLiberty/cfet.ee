@@ -3,11 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: The Home of Liberty!
+title: The Centre for Free Economic thought
 ---
 
-Mission: Liberty is advancing liberty through targeted initiatives.
+CFET is the Estonian Business School think tank.
 
-Join us Wednesday nights in Tallinn, Estonia for weekly debates.
 
 

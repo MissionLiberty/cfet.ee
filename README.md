@@ -1,5 +1,5 @@
-# Mission: Liberty Website
-This repository is serving the www.missionliberty.ee website.
+# CFET.ee Website
+This repository is serving the www.cfet.ee website.
 
 The project uses [Jekyll](https://jekyllrb.com/) as CMS system and [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) as a theme.
 

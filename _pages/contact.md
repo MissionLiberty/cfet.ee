@@ -4,7 +4,5 @@ title: Contact
 permalink: /contact/
 ---
 
-Here are the ways to contact us:
+As Yoda would put it, the CFET email you can at ebs.ee.
 
-- info@kajakallas.com
-- complaints@tax.eu

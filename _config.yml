@@ -1,16 +1,16 @@
 title: "CFET"
-name: " Center for Free Economic Thought"
+name: "Center for Free Economic Thought"
 # subtitle: "Center for Free Economic Thought."
-email: info@cfet.ee
+email: cfet@ebs.ee
 description: >- # this means to ignore newlines until "baseurl:"
-  Mission: The Center for Free Economic Thought at Estonian Business School is an independent and non-partisan think-tank.
+  The Center for Free Economic Thought at Estonian Business School is an independent and non-partisan think-tank.
 url: "https://www.cfet.ee"
 repository: "MissionLiberty/cfet.ee"
 #twitter_username: missionliberty.ee
 github_username:  MissionLiberty
 timezone: Europe/Tallinn
-logo: /img/ebs_CFET_fb_logo.png
-og_image: /img/ebs_CFET_fb_logo.png
+logo: /img/CFET_logo_128.png
+og_image: /img/CFET_logo_128.png
 
 # Build settings
 markdown: kramdown

@@ -2,7 +2,7 @@
 layout: single
 title:  "CineForum: Atlas Shrugged"
 date:   2023-03-20 23:00:00 +0300
-#categories: [meetup]
+#categories: [CineForum]
 ---
 
 

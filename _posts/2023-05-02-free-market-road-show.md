@@ -2,7 +2,7 @@
 layout: single
 title:  "Free Market Road Show 2023"
 date:   2023-05-02 11:42:00 +0300
-#categories: [meetup]
+#categories: [FMRS]
 ---
 
 In cooperation with CFET (Center for Free Economic Thoughts) at Estonian Business School, the Free Market Road Show is

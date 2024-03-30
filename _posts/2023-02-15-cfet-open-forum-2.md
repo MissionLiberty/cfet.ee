@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "CFET Open Forum #2: Does Estonia support Free Markets?"
+title:  "OpenForum #2: Does Estonia support Free Markets?"
 date:   2023-02-15 11:42:00 +0300
 #categories: [OpenForum]
 ---

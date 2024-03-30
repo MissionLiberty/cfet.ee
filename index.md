@@ -10,7 +10,7 @@ The Centre for Free Economic Thought is the Estonian Business School’s think t
 
 Website in construction, thank you for your patience!
 
-![FMRS 2024 Tallinn main poster.](/img/2023-03-30-fmrs2024-invite/FMRS%202024%20main%20poster%20v04.png)
+[![FMRS 2024 Tallinn main poster.](/img/2023-03-30-fmrs2024-invite/FMRS%202024%20main%20poster%20v04.png)](/_posts/2024-03-30-fmrs2024-invite.md)
 
 
 

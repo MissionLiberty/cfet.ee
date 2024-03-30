@@ -17,8 +17,11 @@ It was a unique opportunity to gain valuable perspectives on melding philosophic
 
 *Juan Sáenz-Diez opened the event with an brief introduction to Objectivism.*
 
-![Miao](/img/24-02-28-report-openforum/20240228_193905.jpg "Miao ZhiCheng presented the interactive lecture.")
+![Miao](/img/24-02-28-report-openforum/20240228_193905.jpg)
 
-![Audience](/img/24-02-28-report-openforum/20240228_193918.jpg "It was a well-attended forum, with discussions and snacks after the lecture.")
+*Miao ZhiCheng presented the interactive lecture.*
 
+![Audience](/img/24-02-28-report-openforum/20240228_193918.jpg)
+
+*It was a well-attended forum, with discussions and snacks after the lecture.*
 

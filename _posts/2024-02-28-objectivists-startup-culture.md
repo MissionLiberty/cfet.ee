@@ -13,8 +13,11 @@ Drawing inspiration from John A. Allison's objectivist ethics, Miao shared insig
 
 It was a unique opportunity to gain valuable perspectives on melding philosophical ethics with practical business strategies in the modern entrepreneurial landscape. The attendee's participation and input enriched the discussion, offering a diverse range of viewpoints and experiences.
 
-![Juan](/img/24-02-28-report-openforum/photo_2024-02-29_08-50-39%20(2).jpg "Juan Sáenz-Diez opened the event with an brief introduction to Objectivism.")
+![Juan](/img/24-02-28-report-openforum/photo_2024-02-29_08-50-39%20(2).jpg)
+*Juan Sáenz-Diez opened the event with an brief introduction to Objectivism.*
+
 ![Miao](/img/24-02-28-report-openforum/20240228_193905.jpg "Miao ZhiCheng presented the interactive lecture.")
-![Ausience](/img/24-02-28-report-openforum/20240228_193918.jpg "It was a well-attended forum, with discussions and snacks after the lecture.")
+
+![Audience](/img/24-02-28-report-openforum/20240228_193918.jpg "It was a well-attended forum, with discussions and snacks after the lecture.")
 
 

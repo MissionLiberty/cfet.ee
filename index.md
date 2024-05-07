@@ -12,8 +12,9 @@ Website in construction, thank you for your patience!
 
 # [![FMRS 2024 Tallinn main poster.](/img/2023-03-30-fmrs2024-invite/FMRS%202024%20main%20poster%20v04.png)](https://www.cfet.ee/2024/03/20/fmrs2024-invite.html)
 
+[![Human Action Open Forum poster](/img/24-05-08-openforum-humanaction.png)](https://www.facebook.com/events/7342090902555102)
 
-[Human Action Open Forum poster](/img/24-05-08-openforum-humanaction.png)
+
 
 
 

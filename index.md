@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: The Centre for Free Economic thought
+title: The Centre for Free Economic Thought
 ---
 
 The Centre for Free Economic Thought is the Estonian Business School’s think tank devoted to the study of free markets in the classical liberal and Austrian Economics traditions.
